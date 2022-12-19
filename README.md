@@ -11,7 +11,6 @@
 
 - 👨‍🎓  I'm studying for the bachelor degree in Computer Science and Economics as minor course at University of Tehran.
 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- 😐 I have a love/hate relationship with Programming
 - 📈 I’m currently learning finance and using ML/AI in this field
 - 🔭 I’m developing Market Making ML-algorithms
 - :seedling: Advise: Never send a human to do a machine's job. like trading!
