@@ -9,9 +9,9 @@
 
 
 
-- 👨‍🎓  I'm studying for the bachelor degree in Computer Science and Economics as minor course at University of Tehran.
+- 👨‍🎓  I'm a senior computer science student at the University of Tehran with a minor in economics.
 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- 📈 I’m currently learning finance and using ML/AI in this field
+- 📈 In my current job, I am learning about finance and applying ML/AI to it.
 - 🔭 I’m developing Market Making bots and fraud detection algorithms used in Tehran stock exchange 
 - :seedling: Advise: Never send a human to do a machine's job. like trading!
 - :wrench: Tools i use: 
@@ -35,7 +35,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarmohammadimatin)](https://github.com/anuraghazra/github-readme-stats)
 
-ps. Jupyter notebooks are all written in my favorite language, Python:heart:
+ps. Jupyter notebooks are all written in my favorite language, Python.
 
 📫 How to reach me: 
 
@@ -43,6 +43,6 @@ ps. Jupyter notebooks are all written in my favorite language, Python:heart:
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahyar-mohammadi-4b24751a6/)
  [![General badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mahyar_mooh)
  
-:sparkles: Q:What's the difference between a PhD in Computer Science and a large pizza? A: A large pizza can feed a family of four
+
 <br>
  
