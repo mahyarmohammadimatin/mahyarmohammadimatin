@@ -9,9 +9,9 @@
 
 
 
-- 👨‍🎓  I'm a computer science student at the University of Tehran with a minor in economics. Additionally, I have a three-year journey as a senior algorithm developer at Soorin Investment Group.
+- 👨‍🎓  I'm a DataScience for Economics student at the University of Milan. Additionally, I have a three-year journey as a senior algorithm developer at Soorin Investment Group.
 <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- 📈 In my current job, my focus is on developing Market Making bots and crafting sophisticated fraud detection algorithms for the Tehran Stock Exchange.
+- 📈 In my current job, my focus is on developing algorithms for trading options and derivative stocks.
 - :wrench: Tools i use: 
 
 ![General badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
