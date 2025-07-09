@@ -31,10 +31,6 @@
 ![General badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![General badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahyarmohammadimatin)](https://github.com/anuraghazra/github-readme-stats)
-
-ps. Jupyter notebooks are all written in my favorite language, Python.
-
 📫 How to reach me: 
 
  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahyarmohammadimatin@gmail.com)
